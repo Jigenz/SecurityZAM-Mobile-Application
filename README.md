@@ -74,9 +74,6 @@ SecurityZAM provides a layered security approach to protect user data, designed 
    - Open the app on your mobile device.
    - Follow the in-app instructions to set up and use each security feature.
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
