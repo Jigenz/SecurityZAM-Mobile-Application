@@ -29,7 +29,7 @@ SecurityZAM is a comprehensive OSINT tool designed to enhance user security thro
 ### 3. Advanced Geolocation Services
 - **IP Geolocation**: Fetches location data based on IP using `ipgeolocation.io` API.
 - **GPS Location**: Retrieves real-time GPS data with location permissions.
-- ![image](https://github.com/user-attachments/assets/fb1661c6-df31-4cfd-9226-7e5f453b81d5) ![image](https://github.com/user-attachments/assets/54c83475-52e0-47ee-a7d6-72c872a28373)
+![image](https://github.com/user-attachments/assets/fb1661c6-df31-4cfd-9226-7e5f453b81d5) ![image](https://github.com/user-attachments/assets/54c83475-52e0-47ee-a7d6-72c872a28373)
 
 
 
