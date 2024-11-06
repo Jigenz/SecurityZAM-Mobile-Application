@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706567728840",
+    "firebase_url": "https://eventcible-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eventcible",
+    "storage_bucket": "eventcible.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706567728840:android:cee192c9648192372dfffd",
+        "android_client_info": {
+          "package_name": "com.example.mobile_security_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706567728840-kkejcmhgaerhd6v32h8lrq4khatvev3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobile_security_app",
+            "certificate_hash": "a10243f10c5cb303969d5e64c4cc7193e85e34dd"
+          }
+        },
+        {
+          "client_id": "706567728840-gi767i0denh7pqgcalp868mu5ger1nq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdAbxPUcp_xIRKzmkw_rHHUwTJJRzseDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706567728840-gi767i0denh7pqgcalp868mu5ger1nq5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "706567728840-9picon55oeg5v26gnka7q751fj46e0qo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobileSecurityApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
