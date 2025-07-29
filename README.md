@@ -73,7 +73,6 @@ SecurityZAM is a comprehensive OSINT tool designed to enhance user security thro
 - **Transparency**: Clear guidelines on data usage and user responsibilities.
 - **Security Commitment**: Outline of security practices to protect user data.
   
-![image](https://github.com/user-attachments/assets/799dbb0f-9fba-4e90-818e-610f7e966098) ![image](https://github.com/user-attachments/assets/5d18d71b-bd4d-4a8a-8b35-350cbbda6227)
 
 
 ## Conclusion
