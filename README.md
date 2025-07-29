@@ -3,7 +3,7 @@
 
 ### An Open Source Intelligence (OSINT) Mobile Application for Enhanced Security
 
-**Author**: Abdullah Azzam Bin Syafrizal (MSC 1, 1210581)  
+**Author**: Abdullah Azzam (MSC 1)  
 **Course**: SKJ4333 - Mobile Security System
 
 ---
@@ -18,14 +18,14 @@ SecurityZAM is a comprehensive OSINT tool designed to enhance user security thro
 - **Sign-In & Sign-Up**: Account creation and secure login through Firebase Authentication.
 - **Password Protection**: Strong password policies with validation and encryption.
   
-![image](https://github.com/user-attachments/assets/71e1856a-c380-4fed-bb4f-29463a8f39a6) ![image](https://github.com/user-attachments/assets/06be7acb-cc35-4f9b-bad0-f39a1a5935e3)
+
 
 
 ### 2. Two-Factor Authentication (2FA)
 - **Enhanced Security**: Adds a second layer of protection for accounts.
 - **Verification Methods**: Supports phone and email verification.
   
-![image](https://github.com/user-attachments/assets/7e0b5aad-62bb-426a-b43a-550195203227) ![image](https://github.com/user-attachments/assets/30766f3a-a333-47f0-a74e-d0034e5e7810)
+
 
 
 ### 3. Advanced Geolocation Services
@@ -103,9 +103,7 @@ SecurityZAM provides a layered security approach to protect user data, designed 
 
 ---
 
-## Contact
 
-For questions or suggestions, please reach out to azzamabdullah237@gmail.com.
 
 
 
